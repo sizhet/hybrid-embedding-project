@@ -1,11 +1,13 @@
 # hybrid-embedding-project
 
 Hybrid Embedding: Explainability, efficiency, and unification for LLM embeddings.
+
 Hybrid Embedding: H(x) = [C(x) ∥ R(x)] — a bridge between LLMs and Digital Brain Models.
 
 Copyright 2025 Sizhe Tan
 With assistance from GPT-5 (AI research assistant)
 Licensed under the Apache License, Version 2.0
+
 10.5281/zenodo.17204143
 
 # 🚀 Hybrid Embedding v0.1 — Initial Public Release
