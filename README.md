@@ -8,7 +8,7 @@ Copyright 2025 Sizhe Tan
 With assistance from GPT-5 (AI research assistant)
 Licensed under the Apache License, Version 2.0
 
-DOI: 10.5281/zenodo.17204143
+DOI 10.5281/zenodo.17205861
 
 # 🚀 Hybrid Embedding v0.1 — Initial Public Release
 
